@@ -17,7 +17,5 @@ For best experience with Sublime Text, install the [Fira Code](https://github.co
 -> Material Theme with Material Color Scheme
 -> Material Theme with Facebook Color Scheme
 
-# Alert
-
-## PHP
+## Alert: PHP
 "smart_indent": false, is important for fix the Array indentation.
