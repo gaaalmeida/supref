@@ -2,17 +2,16 @@
   "always_show_minimap_viewport": true,
   "auto_complete_delay": 10,
   "bold_folder_labels": true,
-  "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
   "default_encoding": "UTF-8",
   "font_face": "Fira Code Retina",
   "font_options":
   [
-    "gdi", // Windows
-    "no_round", // OSX
+    "gdi",
+    "no_round",
     "gray_antialias",
     "subpixel_antialias"
   ],
-  "font_size": 13, // Perfect font-size for "Fira Code Retina"
+  "font_size": 13,
   "highlight_line": true,
   "ignored_packages":
   [
@@ -31,9 +30,8 @@
   "overlay_scroll_bars": "enabled",
   "scroll_speed": 2.0,
   "show_encoding": true,
-  "tab_size": 2, // Size of identation
+  "tab_size": 2,
   "trim_trailing_white_space_on_save": false,
-  "theme": "Spacegray.sublime-theme",
   "translate_tabs_to_spaces": true,
   "word_wrap": true
 }
